@@ -1,4 +1,4 @@
-# 🛒 Jensen's Retail SQL Analysis
+#  Jensen's Retail SQL Analysis
 
 ## 📌 Project Overview
 This project focuses on analyzing retail operations data for Jensen's using SQL. The objective is to extract actionable insights related to customer behavior, staff performance, inventory trends, and store efficiency.
@@ -7,7 +7,7 @@ The analysis simulates real-world business scenarios where data-driven decisions
 
 ---
 
-## 🎯 Problem Statement
+##  Problem Statement
 As a Data Analyst at Jensen's, the goal is to:
 - Understand customer purchasing patterns
 - Evaluate staff sales performance
@@ -61,7 +61,7 @@ These tables are linked using primary and foreign keys to enable comprehensive a
 
 ---
 
-## 🚀 Key SQL Concepts Used
+##  Key SQL Concepts Used
 - Joins (INNER, LEFT, EXISTS)
 - Window Functions (Cumulative Sum, Ranking)
 - Aggregations (SUM, AVG, COUNT)
@@ -71,7 +71,7 @@ These tables are linked using primary and foreign keys to enable comprehensive a
 
 ---
 
-## 📊 Output / Deliverables
+##  Output / Deliverables
 - SQL query solutions for each business problem
 - Structured insights derived from raw relational data
 - Presentation (PPT) showcasing:
@@ -94,7 +94,7 @@ These tables are linked using primary and foreign keys to enable comprehensive a
 
 ---
 
-## 🔮 Future Improvements
+##  Future Improvements
 - Integrate visualization tools like Power BI or Tableau
 - Automate reporting using stored procedures
 - Optimize queries for large-scale datasets
